@@ -38,7 +38,9 @@ contraseña: 1234
 Luego, si eres admin podrás crear eventos, editarlos o eliminarlos.
 Si eres visitante podrás suscribirte a los eventos y verlos en tu pantalla.
 
+### Link de mi repo.
 
+https://github.com/Karina0517/SPAeventos 
 
 
 
