@@ -8,8 +8,6 @@ export function createEventsView() {
     <div class="container-fluid">
       <div class="row min-vh-100">
         <div class="col-md-3 col-lg-2 bg-light border-end d-flex flex-column align-items-center py-4">
-          <img src="avatar.jpg" class="rounded-circle mb-2" width="80" height="80" alt="Avatar">
-          <h6>Random guy</h6>
           <small class="text-muted mb-3">Admin</small>
           <a href="#/dashboard/events" class="btn btn-outline-primary w-75 mb-2">Eventos</a>
           <a href="#/login" id="logout-btn" class="btn btn-outline-secondary w-75">Cerrar sesión</a>
